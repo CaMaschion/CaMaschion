@@ -1,4 +1,31 @@
-### Hi there 👋
+### Hey! My name is Camila!! :v:
+
+I am a Software developer since the end of 2019 dedicating myself to mobile projects focused on the Android platform using the Kotlin programming language. Adept of agile practices, software engineering, and good software development practices.
+
+## You can talk to me in:
+
+* Portuguese 
+* English
+
+## What I know...
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+![Camila Maschion's github stats](https://github-readme-stats.vercel.app/api?username=camaschion&theme=cobalt&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camaschion&hide=TeX&layout=compact)
+
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=camaschion.camaschion)
 
 <!--
 **CaMaschion/CaMaschion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
