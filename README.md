@@ -18,8 +18,7 @@ I am a Software developer since the end of 2019 dedicating myself to mobile proj
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-<img src="https://img.shields.io/badge/-%2361dafb.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
+![CSharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
 
 
 ![Camila Maschion's github stats](https://github-readme-stats.vercel.app/api?username=camaschion&theme=cobalt&show_icons=true) 
