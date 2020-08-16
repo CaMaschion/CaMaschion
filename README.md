@@ -18,7 +18,6 @@ I am a Software developer since the end of 2019 dedicating myself to mobile proj
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c#)
 
 
 ![Camila Maschion's github stats](https://github-readme-stats.vercel.app/api?username=camaschion&theme=cobalt&show_icons=true) 
