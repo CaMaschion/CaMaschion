@@ -1,6 +1,6 @@
 ### Hey! My name is Camila!! :v:
 
-I am a Software developer since the end of 2019 dedicating myself to mobile projects focused on the Android platform using the Kotlin programming language. Adept of agile practices, software engineering, and good software development practices.
+I am a Software developer since 2019 dedicating myself to mobile projects focused on the Android platform using the Kotlin programming language. Adept of agile practices, software engineering, and good software development practices.
 
 ## You can talk to me in:
 
