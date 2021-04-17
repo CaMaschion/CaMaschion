@@ -20,8 +20,11 @@ I am a Software developer since 2019 dedicating myself to mobile projects focuse
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-![Camila Maschion's github stats](https://github-readme-stats.vercel.app/api?username=camaschion&theme=cobalt&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camaschion&hide=TeX&layout=compact)
+
+
+![Camila Maschion's github stats](https://github-readme-stats.vercel.app/api?username=camaschion&theme=cobalt&show_icons=true) 
+
 
 
 
