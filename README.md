@@ -2,7 +2,7 @@
 
 Hello, my name is Camila, after having graduated from a Law school and happily worked as a lawyer, I decided to shift my career to the technology area as I am fascinated by computer language and systems.
 I've been in the development field since early 2019, after participating in a frontend bootcamp and learning the basics of HTML, CSS and Javascript.
-In 2020, I luckily started working with Angular, Node and Android Development. Which led me into knowing Kotlin, language which I have been focused on furthering my Android Developer skills. Along side Kotlin, I've been working with MVVM architecture and discivering the intricacies of creating an app from scratch.
+In 2020, I luckily started working with Angular, Node and Android Development. Which led me into knowing Kotlin, language which I have been focused on furthering my Android Developer skills. Along side Android, I've been working with MVVM architecture and discivering the intricacies of creating an app from scratch.
 Having experience this huge shift in my career, has motivated me to share with others my path to totally tranform my career and all I know and care about the Development culture, which I am certain has been enthusing others to endure a career challenge learning and studying about Android and Kotlin.
 
 ___________________________________________________________________________________________________________________________________________________________
