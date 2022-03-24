@@ -10,7 +10,7 @@ ________________________________________________________________________________
 Olá, meu nome é Camila, por 5 anos trabalhei como advogada e em 2019 decidi migrar para a área de tecnologia.
 Em meados de 2019 entrei em um bootcamp de desenvolvimento front-end chamado Laboratória, onde aprendi HTML, CSS e Javascript. Em 2020 consegui minha primeira oportunidade na área e trabalhei com Angular, Node e Android. Foi então escolhi focar no desenvolvimento Android e hoje quase 2 anos após a mudança de carreira, trabalho como Desenvolvedora Android utilizando a linguagem de programação Kotlin.
 Sempre que posso escrevo textos para incentivar as pessoas que estão pensando em mudar de carreira e também ajudar aqueles que decidiram iniciar no desenvolvimento Android, gosto de textos leves mostrando com bom humor minha decisão de mudar de carreira e meu dia a dia como desenvolvedora =).
-Você pode ler meus textos através deste link: https://dev.to/camaschion
+Você pode ler meus textos através deste link: https://camilamaschion.com
 
 ## You can talk to me in:
 
