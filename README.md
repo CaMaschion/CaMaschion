@@ -1,16 +1,9 @@
 ### Hey! My name is Camila!! :v:
 
-Hello, my name is Camila, after having graduated from a Law school and happily worked as a lawyer, I decided to shift my career to the technology area as I am fascinated by computer language and systems.
-I've been in the development field since early 2019, after participating in a frontend bootcamp and learning the basics of HTML, CSS and Javascript.
-In 2020, I luckily started working with Angular, Node and Android Development. Which led me into knowing Kotlin, language which I have been focused on furthering my Android Developer skills. Along side Android, I've been working with MVVM architecture and discivering the intricacies of creating an app from scratch.
-Having experience this huge shift in my career, has motivated me to share with others my path to totally tranform my career and all I know and care about the Development culture, which I am certain has been enthusing others to endure a career challenge learning and studying about Android.
+#Hello, what´s up? My name is Camila!
+I am a android developer since 2020. I have been working on building solutions using Android stack and Kotlin programming language.
 
-___________________________________________________________________________________________________________________________________________________________
-
-Olá, meu nome é Camila, por 5 anos trabalhei como advogada e em 2019 decidi migrar para a área de tecnologia.
-Em meados de 2019 entrei em um bootcamp de desenvolvimento front-end chamado Laboratória, onde aprendi HTML, CSS e Javascript. Em 2020 consegui minha primeira oportunidade na área e trabalhei com Angular, Node e Android. Foi então escolhi focar no desenvolvimento Android e hoje quase 2 anos após a mudança de carreira, trabalho como Desenvolvedora Android utilizando a linguagem de programação Kotlin.
-Sempre que posso escrevo textos para incentivar as pessoas que estão pensando em mudar de carreira e também ajudar aqueles que decidiram iniciar no desenvolvimento Android, gosto de textos leves mostrando com bom humor minha decisão de mudar de carreira e meu dia a dia como desenvolvedora =).
-Você pode ler meus textos através deste link: https://camilamaschion.com
+___________________________________________________________________________________________________________________________________
 
 ## You can talk to me in:
 
