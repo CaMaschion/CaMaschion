@@ -2,6 +2,7 @@
 
 I am a android developer since 2020. I have been working on building solutions using Android stack and Kotlin programming language.
 
+[.pdf](https://github.com/brunosalmeida/camilamaschion/blob/master/resume.pdf)
 ___________________________________________________________________________________________________________________________________
 
 ## You can talk to me in:
