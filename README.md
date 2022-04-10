@@ -1,6 +1,5 @@
 ### Hey! My name is Camila!! :v:
 
-#Hello, what´s up? My name is Camila!
 I am a android developer since 2020. I have been working on building solutions using Android stack and Kotlin programming language.
 
 ___________________________________________________________________________________________________________________________________
