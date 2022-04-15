@@ -2,7 +2,6 @@
 
 I am a android developer since 2020. I have been working on building solutions using Android stack and Kotlin programming language.
 
-### You can find my CV here [.pdf](https://github.com/CaMaschion/CaMaschion/blob/master/cv-camilamaschion.pdf)
 
 ### [LinkedIn](https://www.linkedin.com/in/camila-maschion/?locale=en_US)
 ___________________________________________________________________________________________________________________________________
@@ -34,6 +33,8 @@ ________________________________________________________________________________
 
 <!--
 **CaMaschion/CaMaschion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### You can find my CV here [.pdf](https://github.com/CaMaschion/CaMaschion/blob/master/cv-camilamaschion.pdf)
 
 Here are some ideas to get you started:
 
