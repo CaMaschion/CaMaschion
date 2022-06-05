@@ -1,6 +1,6 @@
 ### Hey! My name is Camila!! :v:
 
-I am a android developer since 2020. I have been working on building solutions using Android stack and Kotlin programming language.
+I have been an android developer since 2020, working on building solutions using Android stack and Kotlin programming language.
 
 
 ### [LinkedIn](https://www.linkedin.com/in/camila-maschion/?locale=en_US)
