@@ -3,7 +3,7 @@
 I have been an android developer since 2020, working on building solutions using Android stack and Kotlin programming language.
 
 
-### [LinkedIn](https://www.linkedin.com/in/camila-maschion/?locale=en_US)
+### [LinkedIn](https://www.linkedin.com/in/camilamaschion/?locale=en_US)
 ___________________________________________________________________________________________________________________________________
 
 ## You can talk to me in:
